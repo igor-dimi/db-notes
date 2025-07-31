@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "OS Notes"
+  title: "DB Notes"
   author: "Igor Dimitrov"
   date: "7/17/2025"
   chapters:
