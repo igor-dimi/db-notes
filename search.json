@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DB Notes",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Readling List",
+    "section": "",
+    "text": "1.1 General DB",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#general-db",
+    "href": "reading.html#general-db",
+    "title": "1  Readling List",
+    "section": "",
+    "text": "Database Systems - The Complete Book. Garcia-Molin, Ullman, et al\nThe Database Book - Principles & Practice Using MySQL. Gehani",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#files-algorithms",
+    "href": "reading.html#files-algorithms",
+    "title": "1  Readling List",
+    "section": "1.2 Files & Algorithms",
+    "text": "1.2 Files & Algorithms\n\nFile Organization and Processing. Tharp\nFile Structures. Filk\nData Structures, Files, and Databases. Bamford & Curran",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  }
+]
